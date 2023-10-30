@@ -4,7 +4,7 @@
         <title>Website Testing</title>
     </head>
     <body>
-        <form method="post" action="testing.php">
+        <form method="post" action="latihan3.php">
         <label for="angka">Angka:</label>
         <input type="number" name="angka" id="angka" required>
 
